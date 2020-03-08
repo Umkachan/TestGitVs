@@ -6,7 +6,7 @@ namespace GoGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hdgjkdkdt");
+            Console.WriteLine("Hd");
         }
     }
 }
